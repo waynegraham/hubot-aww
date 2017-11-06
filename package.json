@@ -1,0 +1,34 @@
+{
+  "name": "hubot-aww",
+  "version": "0.0.1",
+  "description": "Reddit /aww integration with Hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "script/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/waynegraham/hubot-aww.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "reddit",
+    "aww"
+  ],
+  "author": "Wayne Graham <wayne.graham@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waynegraham/hubot-aww/issues"
+  },
+  "homepage": "https://github.com/waynegraham/hubot-aww#readme",
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  }
+}
