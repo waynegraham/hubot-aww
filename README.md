@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/waynegraham/hubot-aww.svg?branch=master)](https://travis-ci.org/waynegraham/hubot-aww)
+
 # hubot-aww
 
 Reddit aww integration with Hubot
