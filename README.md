@@ -7,14 +7,14 @@ Reddit aww integration with Hubot
 In a hubot project repo, run:
 
 ```
-npm install hubot-aww --save
+npm install hubot-aww2 --save
 ```
 
 Then add **hubot-aww** to your `external-scripts.json`:
 
 ```
 [
-  "hubot-aww"
+  "hubot-aww2"
 ]
 ```
 
